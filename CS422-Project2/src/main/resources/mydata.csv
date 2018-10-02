@@ -1,0 +1,26 @@
+lo_suppkey|lo_orderdate|lo_shipmode|lo_supplycost
+1|a|TRUCK|10
+1|a|MAIL|10
+1|a|REG AIR|10
+1|a|AIR|10
+2|a|FOB|10
+2|b|MAIL|10
+2|b|RAIL|10
+2|b|AIR|10
+2|b|RAIL|10
+2|b|SHIP|10
+2|b|REG AIR|10
+1|c|AIR|10
+1|c|FOB|10
+1|c|AIR|10
+1|c|MAIL|10
+1|d|TRUCK|10
+1|d|SHIP|10
+1|d|SHIP|10
+1|d|TRUCK|10
+1|d|RAIL|10
+2|e|AIR|10
+2|e|TRUCK|10
+2|e|AIR|10
+2|e|TRUCK|10
+2|e|FOB|10
